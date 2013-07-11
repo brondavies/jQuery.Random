@@ -1,4 +1,4 @@
-#﻿jQuery Random Number Plugin v. 1.0
+#﻿jQuery random Plugin v. 1.0
 
 ### Usage
 
@@ -15,3 +15,15 @@ document.write( $.Random(0,10) );
 ```
 
 this will return a random value from 0 to 10.
+
+```js
+$(selector).random();
+```
+
+### example
+
+```js
+$('p').random().remove() );
+```
+
+This will remove a random "<p>" element from the set of returned elements defined by the selector.
