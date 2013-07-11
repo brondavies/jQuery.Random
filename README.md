@@ -28,4 +28,4 @@ $(selector).random();
 $('p').random().remove() );
 ```
 
-This will remove a random "<p>" element from the set of returned elements defined by the selector.
+This will remove a random "&lt;p&gt;" element from the set of returned elements defined by the selector.
