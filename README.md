@@ -16,6 +16,8 @@ document.write( $.Random(0,10) );
 
 this will return a random value from 0 to 10.
 
+### Usage
+
 ```js
 $(selector).random();
 ```
