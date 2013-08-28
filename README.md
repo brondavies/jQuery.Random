@@ -25,7 +25,7 @@ $(selector).random();
 ### example
 
 ```js
-$('p').random().remove() );
+$('p').random().remove();
 ```
 
 This will remove a random "&lt;p&gt;" element from the set of returned elements defined by the selector.
